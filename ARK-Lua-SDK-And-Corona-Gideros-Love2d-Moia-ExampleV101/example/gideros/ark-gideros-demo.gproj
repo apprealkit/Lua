@@ -1,0 +1,10 @@
+<project>
+ <properties orientation="0" logicalHeight="480" packageName="ark.gideros.demo" encryptAssets="0" assetsOnly="0" scaleMode="0" iosDevice="0" touchToMouse="1" autorotation="0" windowWidth="0" win_org="GiderosMobile" win_domain="apprealkit.com" encryptCode="0" retinaDisplay="0" osx_org="GiderosMobile" fps="60" mouseToTouch="1" logicalWidth="320" osx_domain="apprealkit.com" mouseTouchOrder="0" architecture="0" windowHeight="0">
+  <imageScales/>
+ </properties>
+ <file source="../../../../../../../../../../Applications/Gideros Studio/All Plugins/luasocket/source/socket.lua"/>
+ <file source="numberlua.lua"/>
+ <file source="uuid.lua"/>
+ <file source="apprealkit.lua"/>
+ <file source="main.lua"/>
+</project>
